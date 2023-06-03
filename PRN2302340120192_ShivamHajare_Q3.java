@@ -1,8 +1,9 @@
 public class PRN2302340120192_ShivamHajare_Q3 {
         public static void main(String[] args) {
-            System.out.println("hi")
+
+            System.out.println("this should create conflict");
+            System.out.println("another conflict");
             int flag=0;
-            System.out.println("1");
             for(int i=1;i<=100;i++)
             {
                 flag=0;
